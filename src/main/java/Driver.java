@@ -27,7 +27,6 @@ public class Driver {
 		count = counter.getCount();
 
 		System.out.println(count);
-		
 	}
 
 }
